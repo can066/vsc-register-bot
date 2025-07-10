@@ -4,8 +4,8 @@
 
 ## Nasıl Kurulur?
 
-`config.json` dosyasını kendinize göre doldurun.
-`kurulum.bat` dosyasını çalıştırın.
+`config.json` dosyasını kendinize göre doldurun. \n\n
+`kurulum.bat` dosyasını çalıştırın.\n\n
 `baslat.bat` dosyasını çalıştırın ve botu aktif edin.
 
 ## Bir Sorun Olursa Gel!
